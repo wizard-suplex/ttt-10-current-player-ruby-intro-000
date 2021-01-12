@@ -2,6 +2,7 @@ def turn_count(board)
   turn_number = 0
   board.each do |move|
     puts "Turn Number #{move}"
+    turn number += 1
 end
 
 def current_player(board)
